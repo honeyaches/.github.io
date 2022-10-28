@@ -1,27 +1,27 @@
 That was you upon the mountain <br>
-All alone and all surrounded
-Walking on the ground you're breaking
-Laughing at the life you're wasting
-One, two, a jive won't do it
-You do it on your left
-And you'll never get through it
-Everything you'll have to see
-Dinner isn't just one day
-Good try, we don't like it
-Good try, we won't take that shit
-Oh, I can't win
-Things in bars that people do
-And no one wants to talk to you
-Feeling can be quite a breeze
-You told me that these girls were easy
-Happy that you said you know me
-Felt unlucky when you found me
-Some of us come up empty handed
-Yes, I'll take it
-Wait now, by the sidewalk
-Hold on, yes I'll be right back
-Oh, I can't win
-Yeah, I wait for something
-Cool it, we won't take that shit
-Good try, we don't like it
-Oh, yes I'll be right back
+All alone and all surrounded <br>
+Walking on the ground you're breaking <br>
+Laughing at the life you're wasting <br>
+One, two, a jive won't do it <br>
+You do it on your left <br>
+And you'll never get through it <br>
+Everything you'll have to see <br>
+Dinner isn't just one day <br>
+Good try, we don't like it <br>
+Good try, we won't take that shit <br>
+Oh, I can't win <br>
+Things in bars that people do <br>
+And no one wants to talk to you <br>
+Feeling can be quite a breeze <br>
+You told me that these girls were easy <br>
+Happy that you said you know me <br>
+Felt unlucky when you found me <br>
+Some of us come up empty handed <br>
+Yes, I'll take it <br>
+Wait now, by the sidewalk <br>
+Hold on, yes I'll be right back <br>
+Oh, I can't win <br>
+Yeah, I wait for something <br>
+Cool it, we won't take that shit <br>
+Good try, we don't like it <br>
+Oh, yes I'll be right back <br>
