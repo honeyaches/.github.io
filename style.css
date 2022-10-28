@@ -1,3 +1,29 @@
-<head>
-hello world
-</head>
+body{}
+table{}
+p{}
+h1{}
+etc...
+
+/*colors (classes and notes)
+    primary: #cdcdcd
+    secondary: #3e3e3e
+    highlight: #2a103d
+*/
+.red{}
+.green{}
+.blue{}
+etc...
+
+/* general classes */
+.clear
+.left
+.right
+etc..
+
+/*block elements */
+#wrapper
+#header
+#header ul li
+#header a
+#body
+#footer
