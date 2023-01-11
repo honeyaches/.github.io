@@ -13,18 +13,18 @@ header {
 .container {
   background-color: #99ccff;
   width:80%;
-  color: #000;
+  font-color: #000;
 }
 
 section {
   float: left;
   background-color: #ff66ff;
   width: 70%;
-  color: 000;
+  font-color: 000;
 
 aside {
   float: right;
   background-color: #ff66ff;
   width:25%;
-  color: 000;
+  font-color: 000;
 }
