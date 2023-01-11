@@ -10,7 +10,7 @@ p {
   margin: 50px 25px;
 }
 
-.header {
+header {
   background-color: #99ccff;
   width:300px;
 }
@@ -20,7 +20,7 @@ p {
   width:750px;
 }
 
-.aside {
+aside {
   background-color: #ff66ff;
   width:300px;
 }
