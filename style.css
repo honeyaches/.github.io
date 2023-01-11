@@ -5,6 +5,9 @@ body {
   
 p {
   font-color: #fff;
+  background-color: #000;
+  padding: 50px 25px;
+  margin: 50px 25px;
 }
 
 .ftext {
