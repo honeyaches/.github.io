@@ -16,11 +16,13 @@ header {
 }
 
 section {
+  float: left;
   background-color: #ff66ff;
   width: 200px;
   color: 000;
 
 aside {
+  float: right;
   background-color: #ff66ff;
   width:300px;
   color: 000;
