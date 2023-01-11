@@ -18,9 +18,11 @@ header {
 .container {
   background-color: #99ccff;
   width:750px;
+  color: #000;
 }
 
 aside {
   background-color: #ff66ff;
   width:300px;
+  color: 000;
 }
