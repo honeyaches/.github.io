@@ -6,12 +6,13 @@ body {
 header {
   background-color: #99ccff;
   width:300px;
+  margin 0 auto;
   text-align: center;
 }
 
 .container {
   background-color: #99ccff;
-  width:750px;
+  width:80%;
   color: #000;
 }
 
