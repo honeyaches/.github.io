@@ -21,6 +21,11 @@ header {
   color: #000;
 }
 
+section {
+  background-color: #ff66ff;
+  width: 200px;
+  color: 000;
+
 aside {
   background-color: #ff66ff;
   width:300px;
