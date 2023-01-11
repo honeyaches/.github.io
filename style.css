@@ -10,7 +10,17 @@ p {
   margin: 50px 25px;
 }
 
-.ftext {
+.header {
   background-color: #99ccff;
+  width:300px;
+}
+
+.container {
+  background-color: #99ccff;
+  width:750px;
+}
+
+.aside {
+  background-color: #ff66ff;
   width:300px;
 }
